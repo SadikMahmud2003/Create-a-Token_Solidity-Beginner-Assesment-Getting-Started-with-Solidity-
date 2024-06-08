@@ -61,7 +61,7 @@ Step-by-step instructions for deploying and interacting with a Solidity contract
 ## Author
 
 - Sadik Mahmud
-  - GitHub: https: @Sadik Mahmud [//github.com/SadikMahmud2003]
+  - GitHub: @Sadik Mahmud [https://github.com/SadikMahmud2003]
   - LinkedIn: @Sadik Mahmud [www.linkedin.com/in/sadik-mahmud-873635256]
 
 ## License
